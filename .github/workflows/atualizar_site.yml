@@ -1,38 +1,34 @@
-name: Atualizar Publicacoes Open Access
+name: Atualizar Artigos e Publicar Site
 
-# Roda no dia 1º de cada mês e permite acionamento manual
 on:
   schedule:
     - cron: '0 0 1 * *' 
   workflow_dispatch: 
 
+# Concede permissões para o GitHub Actions publicar no Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
-  atualizar:
+  build-and-deploy:
     runs-on: ubuntu-latest
     
-    # Dá permissão para o robô reescrever arquivos no repositório
-    permissions:
-      contents: write 
-
     steps:
-      - name: Baixar os arquivos do repositório
+      - name: Baixar repositório
         uses: actions/checkout@v4
         
-      - name: Instalar Python
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           
-      - name: Instalar a biblioteca de requisições web
-        run: pip install requests
+      - name: Instalar dependências
+        run: pip install requests mkdocs-material
         
-      - name: Rodar o script de extração
+      - name: Extrair publicações via OpenAlex
         run: python atualizar_artigos.py
         
-      - name: Salvar os novos artigos no repositório
-        run: |
-          git config --global user.name "Bot do Grupo de Pesquisa"
-          git config --global user.email "bot@github.com"
-          git add publicacoes.md
-          git commit -m "Atualização automática dos artigos Open Access" || exit 0
-          git push
+      - name: Construir e Publicar o Site no GitHub Pages
+        run: mkdocs gh-deploy --force
