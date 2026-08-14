@@ -38,7 +38,7 @@ def fetch_group_oa_articles(orcids, target_keyword="tailings"):
                     artigos_unicos[artigo_id] = artigo
     return sorted(artigos_unicos.values(), key=lambda x: x.get('publication_year', 0), reverse=True)
 
-def fetch_all_articles(orcids, target_keywords = "tailings"):
+def fetch_all_articles(orcids, target_keyword = "tailings"):
     """Busca TODAS as publicações sem filtros de acesso ou palavras-chave."""
     artigos_unicos = {}
     for orcid in orcids:
