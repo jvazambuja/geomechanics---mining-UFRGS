@@ -38,7 +38,7 @@ def fetch_group_oa_articles(orcids, target_keyword="tailings"):
                     artigos_unicos[artigo_id] = artigo
     return sorted(artigos_unicos.values(), key=lambda x: x.get('publication_year', 0), reverse=True)
 
-def fetch_all_articles(orcids):
+def fetch_all_articles(orcids, target_keywords = "tailings"):
     """Busca TODAS as publicações sem filtros de acesso ou palavras-chave."""
     artigos_unicos = {}
     for orcid in orcids:
@@ -50,8 +50,19 @@ def fetch_all_articles(orcids):
         if response.status_code == 200:
             resultados = response.json().get('results', [])
             for artigo in resultados:
-                artigo_id = artigo.get('id')
-                artigos_unicos[artigo_id] = artigo
+                has_keyword = False
+                for kw in artigo.get('keywords', []):
+                    if target_keyword.lower() in kw.get('display_name', '').lower():
+                        has_keyword = True
+                        break
+                if not has_keyword:
+                    for concept in artigo.get('concepts', []):
+                        if target_keyword.lower() in concept.get('display_name', '').lower():
+                            has_keyword = True
+                            break
+                if has_keyword:
+                    artigo_id = artigo.get('id')
+                    artigos_unicos[artigo_id] = artigo
     return sorted(artigos_unicos.values(), key=lambda x: x.get('publication_year', 0), reverse=True)
 
 def salvar_oa_em_markdown(artigos, nome_arquivo="docs/publicacoes.md"):
