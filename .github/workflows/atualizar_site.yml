@@ -38,9 +38,9 @@ jobs:
       - name: Salvar os novos artigos (Commit Automático à prova de falhas)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Atualização automática dos artigos Open Access"
-          # Ele vai rastrear o arquivo independente de estar na raiz ou na pasta docs/
-          file_pattern: "docs/publicacoes.md" 
+          commit_message: "Atualização automática dos artigos Open Access e Totais"
+          # Atualizado para rastrear ambos os arquivos gerados
+          file_pattern: "docs/publicacoes.md docs/todas_publicacoes.md"
         
       - name: Construir e Publicar o Site no GitHub Pages (MkDocs)
         run: mkdocs gh-deploy --force
