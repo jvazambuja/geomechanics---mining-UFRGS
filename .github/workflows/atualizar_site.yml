@@ -1,11 +1,12 @@
 name: Atualizar Artigos e Publicar Site
 
+# Define quando a automação vai rodar
 on:
   schedule:
-    - cron: '0 0 1 * *' 
-  workflow_dispatch: 
+    - cron: '0 0 1 * *' # Roda automaticamente no dia 1º de cada mês
+  workflow_dispatch:    # Permite rodar manualmente clicando no botão "Run workflow" no GitHub
 
-# Concede permissões para o GitHub Actions publicar no Pages
+# Concede as permissões necessárias para o robô alterar arquivos e publicar o site
 permissions:
   contents: write
   pages: write
@@ -18,17 +19,39 @@ jobs:
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Garante que todo o histórico do git seja baixado (ajuda a evitar conflitos)
         
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           
-      - name: Instalar dependências
-        run: pip install requests mkdocs-material
+      - name: Instalar dependências (Python e MkDocs)
+        run: |
+          pip install requests 
+          pip install mkdocs-material
         
-      - name: Extrair publicações via OpenAlex
+      - name: Extrair publicações via OpenAlex (Script Python)
         run: python atualizar_artigos.py
         
-      - name: Construir e Publicar o Site no GitHub Pages
+      - name: Salvar os novos artigos no repositório (Commit e Push na branch main)
+        run: |
+          git config --global user.name "Bot do Grupo de Pesquisa"
+          git config --global user.email "bot@github.com"
+          
+          # Adiciona o arquivo markdown gerado (verifique se o script salva dentro de docs/)
+          git add docs/publicacoes.md
+          
+          # Tenta fazer o commit. Se não houver novos artigos, ele ignora e segue em frente sem dar erro.
+          git diff --staged --quiet || git commit -m "Atualização automática dos artigos Open Access"
+          
+          # Puxa qualquer alteração que você tenha feito manualmente no site (como no index.md)
+          git pull --rebase origin main
+          
+          # Envia o arquivo markdown atualizado para o repositório
+          git push origin main
+        
+      - name: Construir e Publicar o Site no GitHub Pages (MkDocs)
+        # Este comando lê todos os arquivos na pasta docs/, compila o site e publica na branch gh-pages
         run: mkdocs gh-deploy --force
