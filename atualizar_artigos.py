@@ -48,7 +48,7 @@ def fetch_group_oa_articles(orcids, target_keyword="tailings"):
                 
     return sorted(artigos_unicos.values(), key=lambda x: x.get('publication_year', 0), reverse=True)
 
-def salvar_em_markdown(artigos, nome_arquivo="publicacoes.md"):
+def salvar_em_markdown(artigos, nome_arquivo="docs/publicacoes.md"):
     with open(nome_arquivo, 'w', encoding='utf-8') as f:
         f.write("# 📚 Produção Científica (Open Access)\n\n")
         f.write(f"*Lista atualizada automaticamente em: {datetime.now().strftime('%d/%m/%Y')}*\n\n")
