@@ -11,27 +11,41 @@ ORCIDS = [
     "0000-0001-7144-6331", # Pesquisador 5
 ]
 
-def fetch_group_oa_articles(orcids):
+def fetch_group_oa_articles(orcids, target_keyword="tailings"):
     artigos_unicos = {}
     
     for orcid in orcids:
         print(f"Buscando publicações OA para ORCID: {orcid}...")
-        # Filtra pelo ORCID do autor e força is_oa=true (apenas Open Access)
         url = f"https://api.openalex.org/works?filter=author.orcid:https://orcid.org/{orcid},is_oa:true"
         
-        # Boas práticas: o OpenAlex pede um e-mail no header (polite pool) para requisições mais rápidas
         headers = {"User-Agent": "mailto:seu_email@instituicao.edu.br"}
         response = requests.get(url, headers=headers)
         
         if response.status_code == 200:
             resultados = response.json().get('results', [])
             for artigo in resultados:
-                # Usa o ID do artigo como chave para evitar duplicatas 
-                # (útil quando pesquisadores do grupo publicam juntos)
-                artigo_id = artigo.get('id')
-                artigos_unicos[artigo_id] = artigo
                 
-    # Ordenar por ano (do mais recente para o mais antigo)
+                # Check if the target keyword is present
+                has_keyword = False
+                
+                # 1. Search in OpenAlex's explicit 'keywords' list
+                for kw in artigo.get('keywords', []):
+                    if target_keyword.lower() in kw.get('display_name', '').lower():
+                        has_keyword = True
+                        break
+                        
+                # 2. If not found, check the 'concepts' list (OpenAlex's automated topics)
+                if not has_keyword:
+                    for concept in artigo.get('concepts', []):
+                        if target_keyword.lower() in concept.get('display_name', '').lower():
+                            has_keyword = True
+                            break
+                
+                # Only add the article if the keyword was found
+                if has_keyword:
+                    artigo_id = artigo.get('id')
+                    artigos_unicos[artigo_id] = artigo
+                
     return sorted(artigos_unicos.values(), key=lambda x: x.get('publication_year', 0), reverse=True)
 
 def salvar_em_markdown(artigos, nome_arquivo="publicacoes.md"):
