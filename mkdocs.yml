@@ -1,0 +1,17 @@
+site_name: UFRGS Geomechanics & Mining Research Group
+site_description: Scientific production, databases, and code.
+site_author: João Vítor de Azambuja Carvalho and Alexia Cindy Wagner
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: deep orange
+  features:
+    - navigation.tabs # Cria um menu superior elegante
+    - navigation.top  # Botão "Voltar ao topo"
+
+nav:
+  - Our team: index.md
+  - Scientific production:
+    - Open Access papers: publicacoes.md
