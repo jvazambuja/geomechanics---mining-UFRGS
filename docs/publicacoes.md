@@ -1,6 +1,6 @@
 # 🔓 Open Access Papers (Tailings)
 
-*Lista atualizada automaticamente em: 14/08/2026*
+*Lista atualizada automaticamente em: 01/09/2026*
 
 ### Solidification/stabilization of metallurgical tailings from the zinc process: environmental, microstructural, and mechanical aspects
 **Autores:** Fernando Fante, Andrés Lotero, Hugo Carlos Scheuermann Filho, Giovani Jordi Bruschi, Maiki Mafessoli, Maria Alice Piovesan, Paulo Henrique Nogueira Metzker, Eduardo Pavan Korf, Nilo César Consoli | **Ano:** 2026
@@ -58,7 +58,7 @@
 
 ### The effect of key parameters on the mechanical response of artificially cemented iron ore tailings for dry stacking purposes
 **Autores:** Nilo César Consoli, Bruno Guimarães Delgado, João Paulo de Sousa Silva, Hugo Carlos Scheuermann Filho | **Ano:** 2024
-[📄 Acessar Artigo Completo](https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/74/e3sconf_is-porto2024_11015.pdf)
+[📄 Acessar Artigo Completo](https://doi.org/10.1051/e3sconf/202454411015)
 
 ---
 
@@ -82,7 +82,7 @@
 
 ### Critical state analysis of two compacted filtered iron ore tailings with different gradings and mineralogy at different stages of treatment
 **Autores:** Nilo César Consoli, João Paulo de Sousa Silva, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Béatrice Anne Baudet, M. R. Coop, Hugo Carlos Scheuermann Filho, Inácio Carvalho, Gustavo Marçal de Sousa, Pedro Pazzoto Cacciari | **Ano:** 2023
-[📄 Acessar Artigo Completo](https://discovery.ucl.ac.uk/10171277/1/Consoli%20et%20al.%20%28revised%29.pdf)
+[📄 Acessar Artigo Completo](https://discovery.ucl.ac.uk/id/eprint/10171277/1/Consoli%20et%20al.%20%28revised%29.pdf)
 
 ---
 

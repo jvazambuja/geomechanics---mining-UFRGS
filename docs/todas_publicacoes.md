@@ -1,6 +1,6 @@
 # 📚 All Publications
 
-*Lista completa atualizada automaticamente em: 14/08/2026*
+*Lista completa atualizada automaticamente em: 01/09/2026*
 
 ### Solidification/stabilization of metallurgical tailings from the zinc process: environmental, microstructural, and mechanical aspects
 **Autores:** Fernando Fante, Andrés Lotero, Hugo Carlos Scheuermann Filho, Giovani Jordi Bruschi, Maiki Mafessoli, Maria Alice Piovesan, Paulo Henrique Nogueira Metzker, Eduardo Pavan Korf, Nilo César Consoli | **Ano:** 2026
@@ -128,15 +128,15 @@
 
 ---
 
-### Effect of Cement Type on Compacted Iron Ore Tailings-Binder Response Blends: Comparative Study
-**Autores:** Nilo César Consoli, Andres Lotero, Hugo Carlos Scheuermann Filho, Aghileh Khajeh, Cocou Auxence Pierre Daassi-Gli, Jordanna Chamon Vogt, João Paulo de Sousa Silva | **Ano:** 2024
-[see in the publisher](https://doi.org/10.1061/jmcee7.mteng-17486)
-
----
-
 ### One-part alkali-activated GGBFS as a cement for enhancing compacted filtered iron ore tailings disposal by stacking
 **Autores:** Nilo César Consoli, Jessamine Pedroso de Oliveira, Andres Lotero, Hugo Carlos Scheuermann Filho, Victor Ferreira Núñez | **Ano:** 2024
 [see in the publisher](https://doi.org/10.1016/j.trgeo.2024.101306)
+
+---
+
+### Effect of Cement Type on Compacted Iron Ore Tailings-Binder Response Blends: Comparative Study
+**Autores:** Nilo César Consoli, Andres Lotero, Hugo Carlos Scheuermann Filho, Aghileh Khajeh, Cocou Auxence Pierre Daassi-Gli, Jordanna Chamon Vogt, João Paulo de Sousa Silva | **Ano:** 2024
+[see in the publisher](https://doi.org/10.1061/jmcee7.mteng-17486)
 
 ---
 
