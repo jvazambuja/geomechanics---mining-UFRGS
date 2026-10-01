@@ -1,10 +1,28 @@
 # 📚 All Publications
 
-*Lista completa atualizada automaticamente em: 01/09/2026*
+*Lista completa atualizada automaticamente em: 01/10/2026*
+
+### Assessment of Closure-Related Operations in a Tailings’ Dam Through Numerical Modeling
+**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Thatyane Martins Gonçalves, Frank Pereira, Alexia Cindy Wagner | **Ano:** 2026
+[see in the publisher](https://doi.org/10.1007/978-3-032-30669-2_21)
+
+---
+
+### Critical state line of copper tailings under different loading types: mineralogy effect
+**Autores:** Rodrigo Zorzal Velten, Matthew Richard Coop, Maiki Mafessoli, João Paulo Rodrigues da Costa, Carlos Alex Alves Lima, João Vítor de Azambuja Carvalho, Nilo César Consoli | **Ano:** 2026
+[see in the publisher](https://doi.org/10.1680/jgeot.25.00812)
+
+---
 
 ### Solidification/stabilization of metallurgical tailings from the zinc process: environmental, microstructural, and mechanical aspects
-**Autores:** Fernando Fante, Andrés Lotero, Hugo Carlos Scheuermann Filho, Giovani Jordi Bruschi, Maiki Mafessoli, Maria Alice Piovesan, Paulo Henrique Nogueira Metzker, Eduardo Pavan Korf, Nilo César Consoli | **Ano:** 2026
+**Autores:** Fernando Fante, Andres Lotero, Hugo Carlos Scheuermann Filho, Giovani Jordi Bruschi, Maiki Mafessoli, Maria Alice Piovesan, Paulo Henrique Nogueira Metzker, Eduardo Pavan Korf, Nilo César Consoli | **Ano:** 2026
 [see in the publisher](https://doi.org/10.1007/s11356-026-37393-9)
+
+---
+
+### Mechanical behavior of zinc ore tailings over a broad range of confining stresses
+**Autores:** Luciana Prado Leite Praça, Bruna Zakharia Hoch, Hugo Carlos Scheuermann Filho, Fernando Schnaid, Lucas Festugato | **Ano:** 2026
+[see in the publisher](https://doi.org/10.28927/sr.2026.005224)
 
 ---
 
@@ -15,14 +33,14 @@
 ---
 
 ### Iron ore tailings upstream dam closure and subsequent dry stacking: stiffness assessment
-**Autores:** Hugo Carlos Scheuermann Filho, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Thatyane Martins Gonçalves, Gino Omar Calderón Vizcarra, Fábio Pereira, N. N. Valverde, Nilo César Consoli | **Ano:** 2025
+**Autores:** Hugo Carlos Scheuermann Filho, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Thatyane Martins Gonçalves, Gino Omar Calderón Vizcarra, F. Pereira, N. N. Valverde, Nilo César Consoli | **Ano:** 2025
 [see in the publisher](https://doi.org/10.1680/jgele.24.00034)
 
 ---
 
-### Evaluation of Iron Ore Tailings During Dam Closure Using Instrumentation, Field Testing, and Numerical Modelling
-**Autores:** Nilo César Consoli, Alexia Cindy Wagner, Thatyane Martins Gonçalves, Gino Omar Calderón Vizcarra, F. T. V. Pereira, João Vítor de Azambuja Carvalho | **Ano:** 2025
-[see in the publisher](https://doi.org/10.1007/s10706-025-03302-z)
+### How particle breakage affects the critical state line of silty-sand iron ore tailings
+**Autores:** Marina Paula Secco, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Pedro Camelo Guedes, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2025
+[see in the publisher](https://doi.org/10.1007/s11440-025-02901-7)
 
 ---
 
@@ -33,8 +51,14 @@
 ---
 
 ### Mechanical Behavior of Artificially Cemented Iron Ore Tailings Under High Confining Pressures
-**Autores:** Nilo César Consoli, João Pedro Camelo Guedes, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Inácio Carvalho, Bruno Guimarães Delgado, João Paulo de Sousa Silva, M. R. Coop | **Ano:** 2025
+**Autores:** Nilo César Consoli, João Pedro Camelo Guedes, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Inácio Diniz Carvalho, Bruno Guimarães Delgado, João Paulo de Sousa Silva, Matthew Richard Coop | **Ano:** 2025
 [see in the publisher](https://doi.org/10.1007/s10706-025-03170-7)
+
+---
+
+### Evaluation of Iron Ore Tailings During Dam Closure Using Instrumentation, Field Testing, and Numerical Modelling
+**Autores:** Nilo César Consoli, Alexia Cindy Wagner, Thatyane Martins Gonçalves, Gino Omar Calderón Vizcarra, Frank Pereira, João Vítor de Azambuja Carvalho | **Ano:** 2025
+[see in the publisher](https://doi.org/10.1007/s10706-025-03302-z)
 
 ---
 
@@ -45,7 +69,7 @@
 ---
 
 ### Mechanical Behaviour of Cemented Copper Tailings Under Isotropic Compression and Drained Triaxial Shearing for Filtered Stacking
-**Autores:** Nilo César Consoli, Carlos Alberto Simões Pires Wayhs, Hugo Carlos Scheuermann Filho, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Paulo de Sousa Silva, M. R. Coop | **Ano:** 2025
+**Autores:** Nilo César Consoli, Carlos Alberto Simões Pires Wayhs, Hugo Carlos Scheuermann Filho, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Paulo de Sousa Silva, Matthew Richard Coop | **Ano:** 2025
 [see in the publisher](https://doi.org/10.1007/s10706-025-03444-0)
 
 ---
@@ -56,26 +80,20 @@
 
 ---
 
-### How particle breakage affects the critical state line of silty-sand iron ore tailings
-**Autores:** Marina Paula Secco, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Pedro Camelo Guedes, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2025
-[see in the publisher](https://doi.org/10.1007/s11440-025-02901-7)
-
----
-
 ### Influence of Consolidation Stress Path and Gradation on the Mechanical Behaviour of Iron Ore Tailings for Filtered Stack Relocation
-**Autores:** Nilo César Consoli, F. T. V. Pereira, Thatyane Martins Gonçalves, Gino Omar Calderón Vizcarra, João Pedro Camelo Guedes, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Hugo Carlos Scheuermann Filho | **Ano:** 2025
+**Autores:** Nilo César Consoli, Frank Pereira, Thatyane Martins Gonçalves, Gino Omar Calderón Vizcarra, João Pedro Camelo Guedes, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Hugo Carlos Scheuermann Filho | **Ano:** 2025
 [see in the publisher](https://doi.org/10.1007/s40891-025-00681-4)
 
 ---
 
 ### Role of mineralogy on the undrained monotonic simple shear response of compacted filtered copper tailings
-**Autores:** Rodrigo Zorzal Velten, Carina Ulsen, João Paulo Rodrigues da Costa, C. Lima, Maiki Mafessoli, João Vítor de Azambuja Carvalho, Nilo César Consoli | **Ano:** 2025
+**Autores:** Rodrigo Zorzal Velten, Carina Ulsen, João Paulo Rodrigues da Costa, Carlos Alex Alves Lima, Maiki Mafessoli, João Vítor de Azambuja Carvalho, Nilo César Consoli | **Ano:** 2025
 [see in the publisher](https://doi.org/10.1016/j.sandf.2025.101636)
 
 ---
 
 ### Geomechanical behaviour of fine- and coarse-grained copper tailings from Brazilian IOCG deposits
-**Autores:** Rodrigo Zorzal Velten, Hugo Carlos Scheuermann Filho, João Paulo Rodrigues da Costa, C. Lima, Yahui Wang, M. R. Coop, Nilo César Consoli | **Ano:** 2025
+**Autores:** Rodrigo Zorzal Velten, Hugo Carlos Scheuermann Filho, João Paulo Rodrigues da Costa, Carlos Alex Lima, Yahui Wang, Matthew Richard Coop, Nilo César Consoli | **Ano:** 2025
 [see in the publisher](https://doi.org/10.1139/cgj-2025-0039)
 
 ---
@@ -105,13 +123,19 @@
 ---
 
 ### Insights into the mechanics of uncemented and lightly cemented compacted iron ore tailings under high confining pressures
-**Autores:** Nilo César Consoli, Hugo Carlos Scheuermann Filho, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, João Pedro Camelo Guedes, Inácio Carvalho, Bruno Guimarães Delgado, João Paulo de Sousa Silva | **Ano:** 2024
+**Autores:** Nilo César Consoli, Hugo Carlos Scheuermann Filho, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, João Pedro Camelo Guedes, Inácio Diniz Carvalho, Bruno Guimarães Delgado, João Paulo de Sousa Silva | **Ano:** 2024
 [see in the publisher](https://doi.org/10.1016/j.sandf.2024.101543)
 
 ---
 
+### Fibers Enhancing New Mine Waste-Based Alkaline-Activated Cement for Dry Stacking Purposes
+**Autores:** João Pedro Camelo Guedes, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Cocou Auxence Pierre Daassi-Gli, Hugo Carlos Scheuermann Filho, Nilo César Consoli | **Ano:** 2024
+[see in the publisher](https://doi.org/10.1061/jmcee7.mteng-17386)
+
+---
+
 ### Porosity and cement controlling the response of artificially cemented tailings under hydrostatic loading to high pressures
-**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Inácio Carvalho, João Paulo de Sousa Silva | **Ano:** 2024
+**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Inácio Diniz Carvalho, João Paulo de Sousa Silva | **Ano:** 2024
 [see in the publisher](https://doi.org/10.1038/s41598-024-80937-7)
 
 ---
@@ -122,9 +146,33 @@
 
 ---
 
+### Desafios na Descaracterização de Barragens: variabilidade de rejeitos
+**Autores:** João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Thatyane Martins Gonçalves, Nilo César Consoli | **Ano:** 2024
+[see in the publisher](https://doi.org/10.47094/cobramseg2024/47)
+
+---
+
 ### Assessment of the Hydraulic Properties of Iron Ore Tailings for Mining Closure Projects in Brazil
-**Autores:** Aghileh Khajeh, Alexia Cindy Wagner, Thatyane Martins Gonçalves, F. T. V. Pereira, João Vítor de Azambuja Carvalho | **Ano:** 2024
+**Autores:** Aghileh Khajeh, Alexia Cindy Wagner, Thatyane Martins Gonçalves, Frank Pereira, João Vítor de Azambuja Carvalho | **Ano:** 2024
 [see in the publisher](https://doi.org/10.47094/cobramseg2024/28)
+
+---
+
+### Análise do comportamento de rejeitos de mineração submetidos a carregamentos de compressão
+**Autores:** João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Pedro Camelo Guedes, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2024
+[see in the publisher](https://doi.org/10.47094/cobramseg2024/434)
+
+---
+
+### Comportamento Geotécnico de Misturas de Rejeito de Minério de Ferro
+**Autores:** Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Hugo Carlos Scheuermann Filho, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2024
+[see in the publisher](https://doi.org/10.47094/cobramseg2024/457)
+
+---
+
+### Influência da história de tensões no comportamento de rejeitos de mineração
+**Autores:** João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, João Paulo de Sousa Silva, Nilo Cesar Consol | **Ano:** 2024
+[see in the publisher](https://doi.org/10.47094/cobramseg2024/468)
 
 ---
 
@@ -159,20 +207,14 @@
 ---
 
 ### Critical state analysis of two compacted filtered iron ore tailings with different gradings and mineralogy at different stages of treatment
-**Autores:** Nilo César Consoli, João Paulo de Sousa Silva, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Béatrice Anne Baudet, M. R. Coop, Hugo Carlos Scheuermann Filho, Inácio Carvalho, Gustavo Marçal de Sousa, Pedro Pazzoto Cacciari | **Ano:** 2023
+**Autores:** Nilo César Consoli, João Paulo de Sousa Silva, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Béatrice Anne Baudet, Matthew Richard Coop, Hugo Carlos Scheuermann Filho, Inácio Diniz Carvalho, Gustavo Marçal de Sousa, Pedro Pazzoto Cacciari | **Ano:** 2023
 [see in the publisher](https://doi.org/10.1007/s11440-023-01963-9)
 
 ---
 
 ### Dry Stacking of Filtered Iron Ore Tailings: Comparing On-Field Performance of Two Drying Methods
-**Autores:** Ana Luisa Cesar Rissoli, Géssica Soares Pereira, Anselmo José Coelho Mendes, Hugo Carlos Scheuermann Filho, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2023
+**Autores:** Ana Luisa Cezar Rissoli, Géssica Soares Pereira, Anselmo José Coelho Mendes, Hugo Carlos Scheuermann Filho, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2023
 [see in the publisher](https://doi.org/10.1007/s10706-023-02689-x)
-
----
-
-### Cement-Enhancing Mechanical Behavior of Tailings Behind Upstream Tailings Dam for Safe Decommissioning
-**Autores:** Nilo César Consoli, Lennon Ferreira Tomasi, Sérgio Filipe Veloso Marques | **Ano:** 2023
-[see in the publisher](https://doi.org/10.1061/(asce)mt.1943-5533.0004741)
 
 ---
 
@@ -183,7 +225,7 @@
 ---
 
 ### Determination of critical state line (CSL) for silty-sandy iron ore tailings subjected to low-high confining pressures
-**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Inácio Carvalho, Pedro Pazzoto Cacciari, João Paulo de Sousa Silva | **Ano:** 2023
+**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Inácio Diniz Carvalho, Pedro Pazzoto Cacciari, João Paulo de Sousa Silva | **Ano:** 2023
 [see in the publisher](https://doi.org/10.1016/j.jrmge.2023.06.014)
 
 ---
@@ -203,6 +245,12 @@
 ### On the mechanics of filtered compacted consolidated and overconsolidated iron ore tailings at high pressures
 **Autores:** João Paulo de Sousa Silva, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Pedro Pazzoto Cacciari, Nilo César Consoli | **Ano:** 2023
 [see in the publisher](https://doi.org/10.1139/cgj-2023-0056)
+
+---
+
+### Avaliação do comportamento de rejeitos de mineração através de modelagem numérica de ensaios Simple Shear
+**Autores:** Helena Portela Farenzena, João Vítor de Azambuja Carvalho, Guilherme Schmitt Medina, Cesar Alberto Ruver | **Ano:** 2023
+[see in the publisher](https://doi.org/10.14195/2184-8394_158_4)
 
 ---
 
@@ -237,7 +285,7 @@
 ---
 
 ### Potential use of iron ore tailings for binder production: A life cycle assessment
-**Autores:** Rodrigo Beck Saldanha, Andres Mauricio Lotero Caicedo, Mariana Tonini de Araújo, Hugo Carlos Scheuermann Filho, Cindy Johanna Moncaleano, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2022
+**Autores:** Rodrigo Beck Saldanha, Andres Lotero, Mariana Tonini de Araújo, Hugo Carlos Scheuermann Filho, Cindy Johanna Moncaleano, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2022
 [see in the publisher](https://doi.org/10.1016/j.conbuildmat.2022.130008)
 
 ---
@@ -255,7 +303,7 @@
 ---
 
 ### Potential Use of Iron Ore Tailings for Binder Production: A Life Cycle Assessment
-**Autores:** Rodrigo Beck Saldanha, Andres Lotero Caicedo, Mariana Tonini de Araújo, Hugo Carlos Scheuermann Filho, Cindy Johanna Moncaleano, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2022
+**Autores:** Rodrigo Beck Saldanha, Andres Lotero, Mariana Tonini de Araújo, Hugo Carlos Scheuermann Filho, Cindy Johanna Moncaleano, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2022
 [see in the publisher](https://doi.org/10.2139/ssrn.4221827)
 
 ---
@@ -291,7 +339,7 @@
 ---
 
 ### Cyclic shear response of fibre-reinforced cemented paste backfill
-**Autores:** Lucas Festugato, Andy Fourie, Nilo César Consoli | **Ano:** 2013
+**Autores:** Lucas Festugato, Andy B. Fourie, Nilo César Consoli | **Ano:** 2013
 [see in the publisher](https://doi.org/10.1680/geolett.12.00042)
 
 ---

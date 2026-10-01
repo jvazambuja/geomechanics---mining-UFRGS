@@ -1,15 +1,27 @@
 # 🔓 Open Access Papers (Tailings)
 
-*Lista atualizada automaticamente em: 01/09/2026*
+*Lista atualizada automaticamente em: 01/10/2026*
+
+### Critical state line of copper tailings under different loading types: mineralogy effect
+**Autores:** Rodrigo Zorzal Velten, Matthew Richard Coop, Maiki Mafessoli, João Paulo Rodrigues da Costa, Carlos Alex Alves Lima, João Vítor de Azambuja Carvalho, Nilo César Consoli | **Ano:** 2026
+[📄 Acessar Artigo Completo](https://www.emerald.com/jgeot/article-pdf/doi/10.1680/jgeot.25.00812/11862913/jgeot.25.00812en.pdf)
+
+---
 
 ### Solidification/stabilization of metallurgical tailings from the zinc process: environmental, microstructural, and mechanical aspects
-**Autores:** Fernando Fante, Andrés Lotero, Hugo Carlos Scheuermann Filho, Giovani Jordi Bruschi, Maiki Mafessoli, Maria Alice Piovesan, Paulo Henrique Nogueira Metzker, Eduardo Pavan Korf, Nilo César Consoli | **Ano:** 2026
+**Autores:** Fernando Fante, Andres Lotero, Hugo Carlos Scheuermann Filho, Giovani Jordi Bruschi, Maiki Mafessoli, Maria Alice Piovesan, Paulo Henrique Nogueira Metzker, Eduardo Pavan Korf, Nilo César Consoli | **Ano:** 2026
 [📄 Acessar Artigo Completo](https://link.springer.com/content/pdf/10.1007/s11356-026-37393-9.pdf)
 
 ---
 
+### Mechanical behavior of zinc ore tailings over a broad range of confining stresses
+**Autores:** Luciana Prado Leite Praça, Bruna Zakharia Hoch, Hugo Carlos Scheuermann Filho, Fernando Schnaid, Lucas Festugato | **Ano:** 2026
+[📄 Acessar Artigo Completo](https://simples.serdigital.com.br/clientes/soils/arquivos/708.pdf)
+
+---
+
 ### Role of mineralogy on the undrained monotonic simple shear response of compacted filtered copper tailings
-**Autores:** Rodrigo Zorzal Velten, Carina Ulsen, João Paulo Rodrigues da Costa, C. Lima, Maiki Mafessoli, João Vítor de Azambuja Carvalho, Nilo César Consoli | **Ano:** 2025
+**Autores:** Rodrigo Zorzal Velten, Carina Ulsen, João Paulo Rodrigues da Costa, Carlos Alex Alves Lima, Maiki Mafessoli, João Vítor de Azambuja Carvalho, Nilo César Consoli | **Ano:** 2025
 [📄 Acessar Artigo Completo](https://doi.org/10.1016/j.sandf.2025.101636)
 
 ---
@@ -45,13 +57,13 @@
 ---
 
 ### Insights into the mechanics of uncemented and lightly cemented compacted iron ore tailings under high confining pressures
-**Autores:** Nilo César Consoli, Hugo Carlos Scheuermann Filho, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, João Pedro Camelo Guedes, Inácio Carvalho, Bruno Guimarães Delgado, João Paulo de Sousa Silva | **Ano:** 2024
+**Autores:** Nilo César Consoli, Hugo Carlos Scheuermann Filho, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, João Pedro Camelo Guedes, Inácio Diniz Carvalho, Bruno Guimarães Delgado, João Paulo de Sousa Silva | **Ano:** 2024
 [📄 Acessar Artigo Completo](https://doi.org/10.1016/j.sandf.2024.101543)
 
 ---
 
 ### Porosity and cement controlling the response of artificially cemented tailings under hydrostatic loading to high pressures
-**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Inácio Carvalho, João Paulo de Sousa Silva | **Ano:** 2024
+**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Inácio Diniz Carvalho, João Paulo de Sousa Silva | **Ano:** 2024
 [📄 Acessar Artigo Completo](https://www.nature.com/articles/s41598-024-80937-7.pdf)
 
 ---
@@ -68,6 +80,30 @@
 
 ---
 
+### Desafios na Descaracterização de Barragens: variabilidade de rejeitos
+**Autores:** João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Thatyane Martins Gonçalves, Nilo César Consoli | **Ano:** 2024
+[📄 Acessar Artigo Completo](https://editora.editoraomnisscientia.com.br/artigoPDF/24221113743.pdf)
+
+---
+
+### Análise do comportamento de rejeitos de mineração submetidos a carregamentos de compressão
+**Autores:** João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, João Pedro Camelo Guedes, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2024
+[📄 Acessar Artigo Completo](https://editora.editoraomnisscientia.com.br/artigoPDF/24202124144.pdf)
+
+---
+
+### Comportamento Geotécnico de Misturas de Rejeito de Minério de Ferro
+**Autores:** Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Hugo Carlos Scheuermann Filho, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2024
+[📄 Acessar Artigo Completo](https://editora.editoraomnisscientia.com.br/artigoPDF/24202124169.pdf)
+
+---
+
+### Influência da história de tensões no comportamento de rejeitos de mineração
+**Autores:** João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, João Paulo de Sousa Silva, Nilo Cesar Consol | **Ano:** 2024
+[📄 Acessar Artigo Completo](https://editora.editoraomnisscientia.com.br/artigoPDF/24202124181.pdf)
+
+---
+
 ### On the Behavior of Bauxite Tailings under a Wide Range of Stresses
 **Autores:** Rosanne Rodrigues Santos Maciel Gonçalves, Matheus de Rezende Dutra, Bruna Zakharia Hoch, Hugo Carlos Scheuermann Filho, ‪Fernando Schnaid, Lucas Festugato | **Ano:** 2024
 [📄 Acessar Artigo Completo](https://www.mdpi.com/2673-6489/4/3/35/pdf?version=1725097140)
@@ -81,13 +117,13 @@
 ---
 
 ### Critical state analysis of two compacted filtered iron ore tailings with different gradings and mineralogy at different stages of treatment
-**Autores:** Nilo César Consoli, João Paulo de Sousa Silva, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Béatrice Anne Baudet, M. R. Coop, Hugo Carlos Scheuermann Filho, Inácio Carvalho, Gustavo Marçal de Sousa, Pedro Pazzoto Cacciari | **Ano:** 2023
+**Autores:** Nilo César Consoli, João Paulo de Sousa Silva, Alexia Cindy Wagner, João Vítor de Azambuja Carvalho, Béatrice Anne Baudet, Matthew Richard Coop, Hugo Carlos Scheuermann Filho, Inácio Diniz Carvalho, Gustavo Marçal de Sousa, Pedro Pazzoto Cacciari | **Ano:** 2023
 [📄 Acessar Artigo Completo](https://discovery.ucl.ac.uk/id/eprint/10171277/1/Consoli%20et%20al.%20%28revised%29.pdf)
 
 ---
 
 ### Determination of critical state line (CSL) for silty-sandy iron ore tailings subjected to low-high confining pressures
-**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Inácio Carvalho, Pedro Pazzoto Cacciari, João Paulo de Sousa Silva | **Ano:** 2023
+**Autores:** Nilo César Consoli, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Hugo Carlos Scheuermann Filho, Inácio Diniz Carvalho, Pedro Pazzoto Cacciari, João Paulo de Sousa Silva | **Ano:** 2023
 [📄 Acessar Artigo Completo](https://doi.org/10.1016/j.jrmge.2023.06.014)
 
 ---
@@ -107,6 +143,12 @@
 ### On the mechanics of filtered compacted consolidated and overconsolidated iron ore tailings at high pressures
 **Autores:** João Paulo de Sousa Silva, João Vítor de Azambuja Carvalho, Alexia Cindy Wagner, Pedro Pazzoto Cacciari, Nilo César Consoli | **Ano:** 2023
 [📄 Acessar Artigo Completo](https://cdnsciencepub.com/doi/pdf/10.1139/cgj-2023-0056)
+
+---
+
+### Avaliação do comportamento de rejeitos de mineração através de modelagem numérica de ensaios Simple Shear
+**Autores:** Helena Portela Farenzena, João Vítor de Azambuja Carvalho, Guilherme Schmitt Medina, Cesar Alberto Ruver | **Ano:** 2023
+[📄 Acessar Artigo Completo](https://impactum-journals.uc.pt/geotecnia/article/download/10968/9408)
 
 ---
 
@@ -141,7 +183,7 @@
 ---
 
 ### Potential Use of Iron Ore Tailings for Binder Production: A Life Cycle Assessment
-**Autores:** Rodrigo Beck Saldanha, Andres Lotero Caicedo, Mariana Tonini de Araújo, Hugo Carlos Scheuermann Filho, Cindy Johanna Moncaleano, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2022
+**Autores:** Rodrigo Beck Saldanha, Andres Lotero, Mariana Tonini de Araújo, Hugo Carlos Scheuermann Filho, Cindy Johanna Moncaleano, João Paulo de Sousa Silva, Nilo César Consoli | **Ano:** 2022
 [📄 Acessar Artigo Completo](https://doi.org/10.2139/ssrn.4221827)
 
 ---
